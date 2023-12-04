@@ -1,2 +1,2 @@
 # LVS-Logger
-A simple program made with pytthon by me. It uses Selenium to scrape data.
+Simples Programm das ich mit python erstellt habe. Es benutzt Selenium um die Wwebsite zu scrapen.
