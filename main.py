@@ -6,8 +6,8 @@ print("ZZZzz /,`.-'`'    -.  ;-;;,_           I need Chrome browser to work!")
 print("     |,4-  ) )-,_. ,\ (  `'-'")
 print("    '---''(_/--'  `-'\_)  ")
 
-Username = "supleo"
-Password = "Kddioso_s11"
+Username = "Your Username here"  #Write your stuff into the Quotation Marks
+Password = "Your Password here"  #Write your stuff into the Quotation Marks
 
 Login = input("Do you want to log in? y/n :  ")
 
