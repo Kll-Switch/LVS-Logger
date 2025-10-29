@@ -6,10 +6,29 @@ from selenium.webdriver.common.by import By
 #Write your stuff into the Quotation Marks
 Username = "Your Username here"  
 Password = "Your Password here"  
-startUpAscii = ["      |\      _,,,---,,_", "ZZZzz /,`.-'`'    -.  ;-;;,_           I need Chrome browser to work! (or maybe not idk)", "     |,4-  ) )-,_. ,\ (  `'-'", "    '---''(_/--'  `-'\_)  "]
-exitAscii = ["         _nnnn_                      ", "        dGGGGMMb     ,"""""""""""""".", "       @p~qp~~qMb    | BYE!         |        ",
-              "       M|@||@) M|   _;..............'","       @,----.JM| -'",  "      JS^\__/  qKL", "     dZP        qKRb", "   fZP            SMMb","   HZM            MMMM",
-                "   FqM            MMMM", " __|´´ .        | \dS``qML", " |    `.       | `' \Zq", "_)      \.___.,|     .'", "\____   )MMMMMM|   .'", "     `-'       `--' hjm"]
+startUpAscii = [
+    "      |\\      _,,,---,,_",
+    "ZZZzz /,`.-'`'    -.  ;-;;,_           I need Chrome browser to work! (or maybe not idk)",
+    "     |,4-  ) )-,_. ,\\ (  `'-'",
+    "    '---''(_/--'  `-'\\_)  "
+]
+exitAscii = [
+    "         _nnnn_                      ",
+    "        dGGGGMMb     ,\"\"\"\"\"\"\"\"\"\"\"\"\".",
+    "       @p~qp~~qMb    | BYE!         |        ",
+    "       M|@||@) M|   _;..............'",
+    "       @,----.JM| -'",
+    "      JS^\\__/  qKL",
+    "     dZP        qKRb",
+    "   fZP            SMMb",
+    "   HZM            MMMM",
+    "   FqM            MMMM",
+    " __|´´ .        | \\dS``qML",
+    " |    `.       | `' \\Zq",
+    "_)      \\.___.,|     .'",
+    "\\____   )MMMMMM|   .'",
+    "     `-'       `--' hjm"
+]
 alreadySigned = [
     "Already signed into LVS today :)",
     "      .----.__",
